@@ -1,4 +1,6 @@
+<p align="center">
 ![Backend](https://t4.ftcdn.net/jpg/05/46/10/15/360_F_546101577_7eZax3OCPZ1x8aST0oVsnDfX2OzjBsGr.jpg)
+</p>
 
 
 <h1 align="center">¡Hola! Soy Joser Fernández <br> 👨🏽‍💻 Full Stack Developer | ⚙️ Especialista Back-End</h1>
@@ -50,5 +52,8 @@
 <br>
 
 <p align="center">
+  Datos de Contacto:
+Linkedin: https://www.linkedin.com/in/joser-fernandez-balza-76182429b
+Email: joss.jota21@gmail.com
   ¡Gracias por visitar mi perfil!
 </p>
