@@ -1,7 +1,6 @@
 <p align="center">
-![Backend](https://t4.ftcdn.net/jpg/05/46/10/15/360_F_546101577_7eZax3OCPZ1x8aST0oVsnDfX2OzjBsGr.jpg)
+  <img src="https://t4.ftcdn.net/jpg/05/46/10/15/360_F_546101577_7eZax3OCPZ1x8aST0oVsnDfX2OzjBsGr.jpg" alt="Backend" width="100%">
 </p>
-
 
 <h1 align="center">¡Hola! Soy Joser Fernández <br> 👨🏽‍💻 Full Stack Developer | ⚙️ Especialista Back-End</h1>
 
