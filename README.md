@@ -1,16 +1,54 @@
-## Hi there 👋
+![Backend](https://t4.ftcdn.net/jpg/05/46/10/15/360_F_546101577_7eZax3OCPZ1x8aST0oVsnDfX2OzjBsGr.jpg)
 
-<!--
-**JFernandezBalza/JFernandezBalza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">¡Hola! Soy Joser Fernández <br> 👨🏽‍💻 Full Stack Developer | ⚙️ Especialista Back-End</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Con una sólida formación y pasión por la creación de APIs RESTful robustas y escalables.
+</p>
+
+<br>
+
+<h3>🛠️ Conocimientos Técnicos</h3>
+<ul>
+  <li>💻 <strong>Back-End:</strong> Node.js, NestJS, Express.js, TypeScript, TypeORM, SQL, NoSQL (MongoDB), Swagger</li>
+  <li>📱 <strong>Front-End:</strong> HTML5, CSS3, ReactJS, Bootstrap, Next.js</li>
+  <li><0xF0><0x9F><0x92><0xBD> <strong>Bases de Datos:</strong> SQL (Experiencia), NoSQL (MongoDB - Experiencia)</li>
+</ul>
+
+<br>
+
+<h3>👨🏽‍💻 Formación</h3>
+<ul>
+  <li><strong>Desarrollador Full Stack con especialización en Back-End</strong> - SoyHenry
+    <ul>
+      <li>Desarrollé proyectos Full Stack y Back-End individuales, aplicando mis conocimientos en escenarios reales.</li>
+      <li>Actualmente participo en el desarrollo colaborativo de una aplicación, fortaleciendo el trabajo en equipo y el uso de tecnologías modernas.</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+
+<h3>🚀 Proyectos Realizados</h3>
+<ul>
+  <li><strong>E-commerce Fullstack:</strong> Diseño e implementación de una plataforma integral con gestión de usuarios, carrito de compras y pasarela de pagos.</li>
+  <li><strong>ExtremeGym:</strong> Aplicación para gestión de entrenamientos, integrando backend robusto y frontend responsive.</li>
+</ul>
+
+<br>
+
+<h3>💼 Experiencia Profesional</h3>
+<p>Mi experiencia previa como Chef (3 años) y Ayudante de Administración (1 año) me ha proporcionado valiosas habilidades en:</p>
+<ul>
+  <li>Organización y gestión de documentación y archivos.</li>
+  <li>Resolución de problemas en entornos de alta exigencia.</li>
+  <li>Trabajo en equipo bajo presión.</li>
+</ul>
+<p>Soy una persona proactiva, con gran capacidad de aprendizaje y estoy ansioso por contribuir en proyectos desafiantes.</p>
+
+<br>
+
+<p align="center">
+  ¡Gracias por visitar mi perfil!
+</p>
