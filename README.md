@@ -33,7 +33,7 @@
 
 <h3>🚀 Proyectos Realizados</h3>
 <ul>
-  <li><strong>E-commerce Fullstack:</strong> Diseño e implementación de una plataforma integral con gestión de usuarios, carrito de compras y pasarela de pagos.</li>
+  <li><strong>E-commerce :</strong> Diseño e implementación de una plataforma integral con gestión de usuarios, carrito de compras y pasarela de pagos.</li>
   <li><strong>ExtremeGym:</strong> Aplicación para gestión de entrenamientos, integrando backend robusto y frontend responsive.</li>
 </ul>
 
