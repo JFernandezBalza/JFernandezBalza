@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://wallpapers.com/images/hd/code-desktop-rttq9e19j0e1f7g7.jpg](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif)" alt="Fondo de Código" width="100%">
+  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" alt="Fondo de Código" width="100%">
 </p>
 
 <h1 align="center">¡Hola! Soy Joser Fernández 👋</h1>
