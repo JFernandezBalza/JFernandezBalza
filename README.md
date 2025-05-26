@@ -82,7 +82,7 @@ Soy una persona proactiva, con gran capacidad de aprendizaje y siempre estoy ans
 📧 Conéctate Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joser-fernandez-balza-76182429b" target="_blank">
+  <a href="https://www.linkedin.com/in/joser-a-fernandez-b-76182429b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:joss.jota21@gmail.com">
