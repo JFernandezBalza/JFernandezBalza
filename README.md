@@ -34,8 +34,8 @@
 🎓 Formación Académica
 
 * Desarrollador Full Stack con especialización en Back-End - SoyHenry
-     Durante mi formación, apliqué mis conocimientos en el desarrollo de proyectos Full Stack y Back-End individuales, simulando escenarios reales del mercado.
-     Actualmente, participo activamente en el desarrollo colaborativo de una aplicación, fortaleciendo mis habilidades de trabajo en equipo, metodologías ágiles y el uso de tecnologías modernas en un entorno real.
+  * Durante mi formación, apliqué mis conocimientos en el desarrollo de proyectos Full Stack y Back-End individuales, simulando escenarios reales del mercado.
+  * Actualmente, participo activamente en el desarrollo colaborativo de una aplicación, fortaleciendo mis habilidades de trabajo en equipo, metodologías ágiles y el uso de tecnologías modernas en un entorno real.
 
 ---
 
@@ -71,7 +71,7 @@ Mi trayectoria previa me ha dotado de habilidades clave que aplico hoy como desa
 Soy una persona proactiva, con gran capacidad de aprendizaje y siempre estoy ansioso por contribuir en proyectos desafiantes y seguir creciendo profesionalmente.
 
 ---
-📈 Estadísticas de GitHub (Opcional)
+📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JFernandezBalza&show_icons=true&theme=radical" alt="Joser Fernandez - GitHub Stats"/>
