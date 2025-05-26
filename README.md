@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://wallpapers.com/images/hd/code-desktop-rttq9e19j0e1f7g7.jpg" alt="Fondo de Código" width="100%">
+  <img src="[https://wallpapers.com/images/hd/code-desktop-rttq9e19j0e1f7g7.jpg](https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif)" alt="Fondo de Código" width="100%">
 </p>
 
 <h1 align="center">¡Hola! Soy Joser Fernández 👋</h1>
 <h3 align="center">👨🏽‍💻 Desarrollador Full Stack | ⚙️ Especialista Back-End</h3>
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-vector/backend-development-icon-server-technology-vector-illustration_53526-728.jpg" alt="Especialista Backend" width="150px">
-</p>
 <p align="center">
   Con una sólida formación y pasión por la creación de APIs RESTful robustas y escalables.
 </p>
